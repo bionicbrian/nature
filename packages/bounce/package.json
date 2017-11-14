@@ -1,0 +1,10 @@
+{
+    "name": "bounce",
+    "description": "bouncey balls",
+    "version": "1.0.0",
+    "license": "MIT",
+    "dependencies": {
+        "colors": "^1.0.0",
+        "p5": "^0.5.16"
+    }
+}
